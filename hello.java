@@ -6,6 +6,8 @@ public class hello {
 
         System.out.println("Hi");
 
+        System.out.println("Hello Again");
+
         System.out.println("THis is a merge challenge");
     }
 } 

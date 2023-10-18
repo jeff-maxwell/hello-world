@@ -3,5 +3,7 @@ public class hello {
         System.out.println("Jeff Maxwell");
 
         System.out.println("Today is good day to code");
+
+        System.out.println("Hi");
     }
 } 

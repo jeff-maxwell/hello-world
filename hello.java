@@ -5,5 +5,7 @@ public class hello {
         System.out.println("Today is good day to code");
 
         System.out.println("Hi");
+
+        System.out.println("THis is a merge challenge");
     }
 } 
